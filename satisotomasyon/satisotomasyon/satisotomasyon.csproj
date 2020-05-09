@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7724E319-73C8-4908-B7A7-B5F2B824D433}</ProjectGuid>
+    <ProjectGuid>{AC850089-AB9F-466F-AC0E-ACAB23B575BD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>satisotomasyonu</RootNamespace>
-    <AssemblyName>satisotomasyonu</AssemblyName>
+    <RootNamespace>satisotomasyon</RootNamespace>
+    <AssemblyName>satisotomasyon</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

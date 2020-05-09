@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace satisotomasyonu.Properties
+namespace satisotomasyon.Properties
 {
 
 
