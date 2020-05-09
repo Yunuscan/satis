@@ -30,7 +30,11 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
+<<<<<<< HEAD
             this.button1 = new System.Windows.Forms.Button();
+=======
+            this.button121 = new System.Windows.Forms.Button();
+>>>>>>> master
             this.SuspendLayout();
             // 
             // label1
@@ -52,6 +56,7 @@
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
+<<<<<<< HEAD
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(77, 333);
@@ -61,13 +66,28 @@
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+=======
+            // button121
+            // 
+            this.button121.Location = new System.Drawing.Point(496, 76);
+            this.button121.Name = "button121";
+            this.button121.Size = new System.Drawing.Size(75, 23);
+            this.button121.TabIndex = 2;
+            this.button121.Text = "button1";
+            this.button121.UseVisualStyleBackColor = true;
+            this.button121.Click += new System.EventHandler(this.button121_Click);
+>>>>>>> master
             // 
             // frmju
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+<<<<<<< HEAD
             this.Controls.Add(this.button1);
+=======
+            this.Controls.Add(this.button121);
+>>>>>>> master
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.label1);
             this.Name = "frmju";
@@ -82,6 +102,10 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListView listView1;
+<<<<<<< HEAD
         private System.Windows.Forms.Button button1;
+=======
+        private System.Windows.Forms.Button button121;
+>>>>>>> master
     }
 }
