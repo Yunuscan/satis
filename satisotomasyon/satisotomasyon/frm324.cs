@@ -16,5 +16,10 @@ namespace satisotomasyon
         {
             InitializeComponent();
         }
+
+        private void frm324_Load(object sender, EventArgs e)
+        {
+            //asdasdasd
+        }
     }
 }

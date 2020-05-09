@@ -16,5 +16,10 @@ namespace satisotomasyon
         {
             InitializeComponent();
         }
+
+        private void Form251_Load(object sender, EventArgs e)
+        {
+            //asdasd
+        }
     }
 }
