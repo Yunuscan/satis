@@ -34,7 +34,7 @@ namespace satisotomasyon.Fonksiyonlar
             };
             db.Kategori.Add(yeni);
             db.SaveChanges();
-
+            // aciklama
         }
     }
 }
