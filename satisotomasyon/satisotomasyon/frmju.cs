@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace satisotomasyon
 {
-    public partial class Form251 : Form
+    public partial class frmju : Form
     {
-        public Form251()
+        public frmju()
         {
             InitializeComponent();
         }

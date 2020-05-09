@@ -1,6 +1,6 @@
 ﻿namespace satisotomasyon
 {
-    partial class Form251
+    partial class frmju
     {
         /// <summary>
         /// Required designer variable.

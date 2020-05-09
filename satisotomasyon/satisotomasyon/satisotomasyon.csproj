@@ -67,11 +67,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form251.cs">
+    <Compile Include="frmju.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form251.Designer.cs">
-      <DependentUpon>Form251.cs</DependentUpon>
+    <Compile Include="frmju.Designer.cs">
+      <DependentUpon>frmju.cs</DependentUpon>
     </Compile>
     <Compile Include="Form3.cs">
       <SubType>Form</SubType>
@@ -132,8 +132,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form251.resx">
-      <DependentUpon>Form251.cs</DependentUpon>
+    <EmbeddedResource Include="frmju.resx">
+      <DependentUpon>frmju.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frames\frmKategoriTanim.resx">
       <DependentUpon>frmKategoriTanim.cs</DependentUpon>
