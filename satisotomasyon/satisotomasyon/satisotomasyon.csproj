@@ -65,8 +65,11 @@
   <ItemGroup>
 
     <Compile Include="Fonksiyonlar\Ekleme.cs" />
+<<<<<<< Updated upstream
    
 
+=======
+>>>>>>> Stashed changes
     <Compile Include="Frames\frmKategoriTanim.cs">
 
       <SubType>Form</SubType>
