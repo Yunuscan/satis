@@ -1,0 +1,8 @@
+C:\Users\yunuscyuz\Desktop\satis\satis\satisotomasyonu\satisotomasyonu\bin\Debug\satisotomasyonu.exe.config
+C:\Users\yunuscyuz\Desktop\satis\satis\satisotomasyonu\satisotomasyonu\bin\Debug\satisotomasyonu.exe
+C:\Users\yunuscyuz\Desktop\satis\satis\satisotomasyonu\satisotomasyonu\bin\Debug\satisotomasyonu.pdb
+C:\Users\yunuscyuz\Desktop\satis\satis\satisotomasyonu\satisotomasyonu\obj\Debug\satisotomasyonu.csprojAssemblyReference.cache
+C:\Users\yunuscyuz\Desktop\satis\satis\satisotomasyonu\satisotomasyonu\obj\Debug\satisotomasyonu.Properties.Resources.resources
+C:\Users\yunuscyuz\Desktop\satis\satis\satisotomasyonu\satisotomasyonu\obj\Debug\satisotomasyonu.csproj.GenerateResource.cache
+C:\Users\yunuscyuz\Desktop\satis\satis\satisotomasyonu\satisotomasyonu\obj\Debug\satisotomasyonu.exe
+C:\Users\yunuscyuz\Desktop\satis\satis\satisotomasyonu\satisotomasyonu\obj\Debug\satisotomasyonu.pdb
