@@ -24,7 +24,12 @@ namespace satisotomasyon
 
         private void label1_Click(object sender, EventArgs e)
         {
+            
+        }
 
+        private void button121_Click(object sender, EventArgs e)
+        {
+            //asadaasasdasd
         }
     }
 }

@@ -30,6 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
+            this.button121 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -51,11 +52,22 @@
             this.listView1.TabIndex = 1;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
+            // button121
+            // 
+            this.button121.Location = new System.Drawing.Point(496, 76);
+            this.button121.Name = "button121";
+            this.button121.Size = new System.Drawing.Size(75, 23);
+            this.button121.TabIndex = 2;
+            this.button121.Text = "button1";
+            this.button121.UseVisualStyleBackColor = true;
+            this.button121.Click += new System.EventHandler(this.button121_Click);
+            // 
             // frmju
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button121);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.label1);
             this.Name = "frmju";
@@ -70,5 +82,6 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.Button button121;
     }
 }
