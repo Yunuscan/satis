@@ -20,6 +20,8 @@ namespace satisotomasyon.Fonksiyonlar
             db.Kategori.Add(yeni);
             db.SaveChanges();
 
+            //AÇIKLAMA
+
         }
         public void altkategoriekleme(int anaid, string ad)
         {
