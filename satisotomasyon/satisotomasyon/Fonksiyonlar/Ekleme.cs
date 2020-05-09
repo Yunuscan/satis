@@ -21,6 +21,8 @@ namespace satisotomasyon.Fonksiyonlar
             db.SaveChanges();
 
             //AÇIKLAMA
+            //AÇIKLAMA
+            //AÇIKLAMA
 
         }
         public void altkategoriekleme(int anaid, string ad)
