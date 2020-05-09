@@ -20,6 +20,8 @@ namespace satisotomasyon
         private void Form1_Load(object sender, EventArgs e)
         {
             //gdfgdf
+            //asdasd
+            //asdasd
         }
     }
 }
