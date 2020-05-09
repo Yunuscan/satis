@@ -1,4 +1,4 @@
-﻿using satisotomasyon.Models;
+using satisotomasyon.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
